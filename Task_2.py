@@ -14,4 +14,4 @@ if len(number) == 3:
     sum = a + b + c
     print(sum)
 else:
-    print("Введено нетрёхзначное число")
+    print("Введено не трёхзначное число")
